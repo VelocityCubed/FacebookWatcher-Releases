@@ -79,6 +79,8 @@ New Marketplace sources use the South Africa coverage preset: twelve regional se
 
 Group sources can be shared through a **Group index**. The collector gathers supported group posts once, then Smart watches and local filters can reuse that indexed content with their own words, price and location rules. Use **Group indexes** to control the shared collector and **Smart watches** to control each filter; pausing a filter does not stop shared collection.
 
+![Marketplace coverage settings](assets/marketplace-coverage-preview.png)
+
 ### Understand scan results
 
 Scans are bounded snapshots of results visible to the logged-in account. They are not complete inventories. The item limit can stop a scan before all visible results are inspected, and Facebook may make some details or images unavailable.
@@ -122,6 +124,8 @@ Select **View on Facebook** to open the original listing externally. A missing p
 Repeated photos appear once in the gallery, including duplicates already in the archive. Rescans reuse saved photos when Facebook refreshes their image URLs.
 
 Posting-date precision is preserved. Exact dates, date-only values, relative estimates and unknown dates remain distinguishable in the detail view.
+
+![Listing details and archived photos](assets/listing-detail-preview.png)
 
 ## Retail watchlist
 
