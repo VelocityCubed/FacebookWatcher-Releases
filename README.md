@@ -24,7 +24,7 @@ Open the [latest release](https://github.com/VelocityCubed/FacebookWatcher-Relea
 
 On a Mac, **Apple menu → About This Mac** identifies your chip or processor. You do not need Node.js, Git, a separate browser installation or a GitHub account to download the app. Linux and Windows ARM installers are not provided.
 
-**Current release:** v0.1.1 is an unsigned release for manual installation. It predates the public update feed, so its update settings still refer to the private repository. The first release using this public feed will require a manual installation once; subsequent releases can use the new in-app updater. Read the notes on the release you install.
+**Current release:** [v0.1.2](https://github.com/VelocityCubed/FacebookWatcher-Releases/releases/tag/v0.1.2) includes the public updater. If you use v0.1.1, download and install v0.1.2 manually once. Later updates can use **App updates** without a GitHub token. Mac apps are unsigned and not notarized; initial installation follows normal macOS approval rules. Read the notes on the release you install.
 
 ## What you can do
 

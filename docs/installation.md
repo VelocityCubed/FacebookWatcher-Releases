@@ -21,9 +21,9 @@ The `.zip`, `.nupkg` and `RELEASES` files support updates; choose the DMG or EXE
 3. Eject the DMG and open Facebook Watcher from Applications.
 4. If macOS identifies the app as unsigned or from an unidentified developer, follow the approval options in **System Settings → Privacy & Security**, if offered, after verifying where you downloaded it. Do not disable macOS security protections.
 
-The v0.1.1 apps are unsigned and not notarized. A Mac managed by an organization may prevent installation. If macOS says the app is damaged, download it again, confirm the processor type and consult [troubleshooting](troubleshooting.md).
+The v0.1.2 Mac apps are unsigned and not notarized. A Mac managed by an organization may prevent installation. If macOS says the app is damaged, download it again, confirm the processor type and consult [troubleshooting](troubleshooting.md).
 
-For future in-app updates, the app must be in a writable Applications directory (`/Applications` or your own `~/Applications`). The updater does not ask for administrator access.
+For in-app updates, the app must be in a writable Applications directory (`/Applications` or your own `~/Applications`). The updater does not ask for administrator access.
 
 ## Windows
 
@@ -39,9 +39,9 @@ Choose **Connect Facebook**. A separate browser opens for Facebook sign-in and a
 
 ## Updates and the move to public releases
 
-**v0.1.1 is a legacy manual-installation release.** Its updater points to the private repository. Download and install the first public-feed version manually when it becomes available. Copying the v0.1.1 files to a public release does not change the updater inside those files.
+**v0.1.1 is a legacy manual-installation release.** Its updater points to the private repository. Download and install [v0.1.2](https://github.com/VelocityCubed/FacebookWatcher-Releases/releases/tag/v0.1.2) or newer manually once to move to the public feed. Copying the v0.1.1 files to a public release does not change the updater inside those files.
 
-In versions containing the new public updater:
+In v0.1.2 and newer:
 
 1. Open the workspace menu's **App updates** card or **Update settings & details**.
 2. Choose **Check now** or **Check for updates**.

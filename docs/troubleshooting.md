@@ -36,7 +36,7 @@ Facebook may not expose every image or owner. Existing records may need a succes
 
 ## Updates cannot be found or downloaded
 
-v0.1.1 still points to private releases and needs one manual upgrade to the public-feed version. For a newer app, check your connection, wait if GitHub limits requests, and remove a saved GitHub update token if it is no longer valid. Public downloads do not require a token. Draft and prerelease versions are ignored.
+v0.1.1 still points to private releases and needs one manual upgrade to v0.1.2 or newer to use the public feed. For a newer app, check your connection, wait if GitHub limits requests, and remove a saved GitHub update token if it is no longer valid. Public downloads do not require a token. Draft and prerelease versions are ignored.
 
 On a Mac, use a writable Applications directory, quit duplicate copies and allow enough free disk space to retain the old and new app. Do not run from the DMG or Downloads. On Windows, use the installed Setup version. Finish or cancel scans before **Restart to install**. If a recovery message appears, follow it before deleting any retained app copies.
 

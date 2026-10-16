@@ -205,7 +205,7 @@ Restore replaces the current archive and source settings after confirmation. Sav
 
 ## App updates
 
-See [Install and update](installation.md) for version-specific update instructions. v0.1.1 requires a manual upgrade to the first version that uses the public feed. Later versions check public releases without a GitHub token.
+See [Install and update](installation.md) for version-specific update instructions. v0.1.1 requires a manual upgrade to v0.1.2 or newer. Those versions check public releases without a GitHub token.
 
 ## Data, privacy and safety
 
